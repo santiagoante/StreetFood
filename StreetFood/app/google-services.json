@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277716582256",
+    "project_id": "streetfood123-6b497",
+    "storage_bucket": "streetfood123-6b497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277716582256:android:e263b9035aeb095c1f99b5",
+        "android_client_info": {
+          "package_name": "edu.unicauca.aplimovil.streetfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277716582256-6a79gvm91406b3nc1jt5d78pel76vo76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVgzxiX9-jjNjXKNJQ_fLPHCgkuHnbzJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277716582256-6a79gvm91406b3nc1jt5d78pel76vo76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

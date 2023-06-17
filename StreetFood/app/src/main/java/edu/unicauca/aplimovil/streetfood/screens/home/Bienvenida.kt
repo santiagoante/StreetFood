@@ -49,8 +49,6 @@ fun Bienvenida(navController: NavHostController) {
             painter = painterResource(id = drawable.icono),
             contentDescription = "logo", Modifier.size(250.dp),
         )
-
-
     }
 
 
